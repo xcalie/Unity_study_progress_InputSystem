@@ -1,0 +1,4 @@
+repository "Unity_study_progress_InputSystem@tj_xcalie2005@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

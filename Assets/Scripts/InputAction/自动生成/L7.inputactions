@@ -1,0 +1,45 @@
+{
+    "name": "L7",
+    "maps": [
+        {
+            "name": "Action1",
+            "id": "d6a3fdfa-a173-4479-9828-0c198db5228a",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "8341b9f6-6887-4adf-a847-41dafa58d27a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "db87fa4d-3795-4d91-8462-8b41171dcd5a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0e5dfee3-13bf-4296-ae2d-22f52306b55e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
